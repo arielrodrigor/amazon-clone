@@ -11,6 +11,7 @@ function Header() {
                         src={'https://links.papareact.com/f90'}
                         width={150}
                         height={40}
+                        alt={''}
                         objectFit={'contain'}
                         className={'cursor-pointer px-4'}
                     />
